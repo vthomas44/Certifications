@@ -9,4 +9,4 @@
 
 ## Certification 3: Foundations of Cybersecurity from Google
 ### Skills gained
-Security Management, Cyber Attacks, Data Ethics, Security Controls, Security Information and Event Management (SIEM), Cyber Security Strategy, Network Analysis Information, Assurance Cybersecurity, Cyber Risk, Ethical Standards And Conduct, Incident Response
+- Security Management, Cyber Attacks, Data Ethics, Security Controls, Security Information and Event Management (SIEM), Cyber Security Strategy, Network Analysis Information, Assurance Cybersecurity, Cyber Risk, Ethical Standards And Conduct, Incident Response
